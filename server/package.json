@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-react-chat-project",
+  "version": "1.0.0",
+  "description": "A real-time chat application using Node.js, Socket.io, and React.",
+  "main": "src/server.ts",
+  "scripts": {
+    "start": "ts-node src/server.ts",
+    "dev": "nodemon src/server.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "socket.io": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2",
+    "ts-node": "^9.1.1",
+    "nodemon": "^2.0.7",
+    "@types/express": "^4.17.8",
+    "@types/mongoose": "^5.10.2",
+    "@types/socket.io": "^2.1.10",
+    "@types/jsonwebtoken": "^8.5.0",
+    "@types/bcryptjs": "^2.4.2"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
