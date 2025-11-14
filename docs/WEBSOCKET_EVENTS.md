@@ -1,7 +1,5 @@
 # WebSocket Events Documentation
 
-This document outlines the WebSocket event structure used in the Node.js and Socket.io based chat application. The events facilitate real-time messaging and user interactions within the chat interface.
-
 ## WebSocket Events
 
 ### 1. Connection Events
@@ -56,4 +54,4 @@ This document outlines the WebSocket event structure used in the Node.js and Soc
 
 ## Summary
 
-The WebSocket event structure is designed to support real-time communication in the chat application, allowing users to send and receive messages instantly, manage their presence in chat rooms, and indicate typing status. This enhances the user experience by providing immediate feedback and interaction capabilities.
+WebSocket event structure is designed to support real-time communication in the chatspace, allowing users to send and receive messages instantly, manage their presence in chat rooms, and indicate typing status. This enhances the user experience by providing immediate feedback and interaction capabilities.

@@ -6,4 +6,4 @@
 
 - **Messages**
   - `GET /api/messages` - Retrieve all messages
-  - `POST /api/messages` - Send a new message
+  - `POST /api/messages` - Send a new message  

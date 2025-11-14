@@ -4,7 +4,7 @@ import LoginPage from './pages/LoginPage';
 import ChatPage from './pages/ChatPage';
 import './styles/main.css';
 
-const App: React.FC = () => {
+const App : React.FC = () => {
   return (
     <Router>
       <Switch>

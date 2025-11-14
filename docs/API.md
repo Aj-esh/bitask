@@ -88,4 +88,4 @@
     ```
 
 ## Summary
-This API provides endpoints for user authentication and message handling, enabling a chat application to manage user sessions and facilitate real-time communication.
+rest API give endpoints for user auth and message handling, for the bitask-chatspace to manage user sessions and facilitate real-time communication.
