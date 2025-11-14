@@ -70,9 +70,3 @@ This project is a real-time chat application built using Node.js for the backend
 ## Usage
 - Access the application in your browser at `http://localhost:3000`.
 - Use the login page to authenticate users and access the chat interface.
-
-## Contribution
-Feel free to fork the repository and submit pull requests for any improvements or features.
-
-## License
-This project is licensed under the MIT License.

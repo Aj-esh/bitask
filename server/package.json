@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-react-chat-project",
+  "name": "bitask",
   "version": "1.0.0",
   "description": "A real-time chat application using Node.js, Socket.io, and React.",
   "main": "src/server.ts",
