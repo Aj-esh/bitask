@@ -1,15 +1,17 @@
 # Node.js and React Chat Application
 
 ## Overview
-This project is a real-time chat application built using Node.js for the backend and React for the frontend. It utilizes Socket.io for real-time communication and MongoDB for data storage. The application supports user authentication and message retrieval through a REST API, along with WebSocket events for real-time messaging.
+Real-time chat application built using Node.js for the backend and React for the frontend. Chatspace utilizes Socket.io for real-time communication and MongoDB for data storage. The application supports user authentication and message retrieval through a REST API, along with WebSocket events for real-time messaging.
 
 ## Technology Stack
 - **Backend:**
   - **Node.js**: A JavaScript runtime for building scalable network applications.
   - **Express**: A web framework for Node.js to handle routing and middleware.
   - **Socket.io**: A library for real-time web applications, enabling bidirectional communication between clients and servers.
-  - **MongoDB**: A NoSQL database for storing user and message data.
   - **Mongoose**: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+
+- **Database:**
+  - **MongoDB**: A NoSQL database for storing user and message data.
 
 - **Frontend:**
   - **React**: A JavaScript library for building user interfaces, allowing for the creation of reusable UI components.
